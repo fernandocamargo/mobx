@@ -1,2 +1,0 @@
-# mobx
-Created with CodeSandbox
